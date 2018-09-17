@@ -3,4 +3,6 @@
 I have a interest in learning new things in computing fields. I enjoy when I work on my computer for various project like HTML and making presentations, updating my PC with variety of new things. Ilove doing all these stuff while listening music.
    <h1><u>Participation in school Activities</u></h1>
    <br> I used participate in all those activities which I thought that should have good impact on me like to maintain my physical fitness and all.
-<img src="Screenshot_2018-08-01-15-10-30-761.jpeg">
+![screenshot_2018-08-01-15-10-30-761](https://user-images.githubusercontent.com/41810819/45633127-a2a2db00-babc-11e8-9c1b-650a15dc3c8a.jpeg)
+![Uploading Screenshot_20180822-110935.jpeg…]()
+
